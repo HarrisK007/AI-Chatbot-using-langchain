@@ -1,1 +1,3 @@
-# AI-Chatbot-using-langchain
+# Chatbot-Using-LLM
+<br>
+<b ---MAKE SURE TO USE YOUR API KEY IN CONFIG FILE BEFORE USING IT-- />
